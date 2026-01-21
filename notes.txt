@@ -1,1 +1,2 @@
 This is a note for the git-practice repository.
+Edited from GitHub interface.
